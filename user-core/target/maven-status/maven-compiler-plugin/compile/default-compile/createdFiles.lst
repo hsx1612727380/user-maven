@@ -1,0 +1,5 @@
+cn\hsx\user\dao\UserDao.class
+cn\hsx\user\util\DbUtil.class
+cn\hsx\user\model\User.class
+cn\hsx\user\util\HibernateUtil.class
+cn\hsx\user\dao\IUserDao.class

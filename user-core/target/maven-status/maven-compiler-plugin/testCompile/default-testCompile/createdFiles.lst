@@ -1,0 +1,3 @@
+cn\hsx\user\dao\TestUserDao.class
+cn\hsx\user\util\AbstractDbUnitTestCase.class
+cn\hsx\user\util\EntitiesHelper.class

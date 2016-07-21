@@ -1,0 +1,15 @@
+package cn.hsx.test;
+
+import java.util.Date;
+
+public class Test1 {
+	
+	public static void main(String[] args) {
+		
+
+根据手机号或者邮箱获取验证码的表，这里多了个邮箱的  原来的表应该需要修改下
+
+		
+	}
+
+}

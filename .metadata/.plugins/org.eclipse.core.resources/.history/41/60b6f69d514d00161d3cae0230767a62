@@ -1,0 +1,18 @@
+package cn.hsx.test;
+
+import java.util.Date;
+
+public class Test1 {
+	
+	public static void main(String[] args) {
+		
+		String string1 = " ";
+		System.out.println(string1.length());
+		String string2 = "";
+		System.out.println(string2.length());
+		String string3 = null;
+		System.out.println();
+		
+	}
+
+}

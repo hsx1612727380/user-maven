@@ -1,0 +1,5 @@
+#Tomcat publish data
+#Fri Jul 08 11:42:55 CST 2016
+org.eclipse.jst.jee.server\:/binary\:D\:\\workspaces\\springmvc_mybatis002\\WebRoot\\WEB-INF\\lib\\spring-web-4.1.7.RELEASE-sources.jar=D\:\\install\\apache-tomcat-8.0.24\\webapps\\springmvc_mybatis002\\WEB-INF\\lib\\spring-web-4.1.7.RELEASE-sources.jar
+org.eclipse.jst.jee.server\:springmvc_mybatis002=D\:\\install\\apache-tomcat-8.0.24\\webapps\\springmvc_mybatis002
+org.eclipse.jst.jee.server\:/binary\:D\:\\workspaces\\springmvc_mybatis002\\WebRoot\\WEB-INF\\lib\\spring-web-4.1.7.RELEASE.jar=D\:\\install\\apache-tomcat-8.0.24\\webapps\\springmvc_mybatis002\\WEB-INF\\lib\\spring-web-4.1.7.RELEASE.jar

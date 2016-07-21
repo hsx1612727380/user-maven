@@ -1,0 +1,21 @@
+package cn.hsx.test;
+
+import java.util.Date;
+
+public class Test1 {
+	
+	public static void main(String[] args) {
+		
+
+		Date date = new Date();
+		Long time1 = date.getTime();
+		Long time2 = (time1 / 3);
+		System.out.println(time1);
+		System.out.println(time2);
+		
+		
+		Integer
+		
+	}
+
+}
